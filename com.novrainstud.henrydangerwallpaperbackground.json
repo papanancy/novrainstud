@@ -16,9 +16,9 @@
 //     * Mode APPLOVIN    Applovin backup Unity Backup Startapp
 //     * Mode TAPDAQ    TAPDAQ backup Unity Backup Startapp
 
-"PENGATURAN_IKLAN_BANNER" : "startapp",
-"PENGATURAN_IKLAN_INTER" : "startapp",
-"PENGATURAN_IKLAN_NATIVE" : "startapp",
+"PENGATURAN_IKLAN_BANNER" : "ADMOB",
+"PENGATURAN_IKLAN_INTER" : "ADMOB",
+"PENGATURAN_IKLAN_NATIVE" : "ADMOB",
 
 "INTERS_COUNT_WEB" : 5,
 
@@ -28,8 +28,8 @@
 
 "STARAPPID" : "211846953",
 
-"ADMOB_BANNER" : "",
-"ADMOB_INTER" : "",
+"ADMOB_BANNER" : "ca-app-pub-3700628298449089/1366783294",
+"ADMOB_INTER" : "ca-app-pub-3700628298449089/7740619957",
 
 "UNITY_BANNER" : "banner",
 "UNITY_INTERSTITIAL" : "inter",
