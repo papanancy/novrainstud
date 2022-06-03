@@ -31,20 +31,20 @@
 "ADMOB_BANNER" : "ca-app-pub-3700628298449089/5010514835",
 "ADMOB_INTER" : "ca-app-pub-3700628298449089/8407119777",
 
-"UNITY_BANNER" : "banner",
-"UNITY_INTERSTITIAL" : "inter",
+"UNITY_BANNER" : "Banner_Android",
+"UNITY_INTERSTITIAL" : "Interstitial_Android",
 "UNITY_GAME_ID" : "4783256",
 "UNITY_TEST_MODE" : false,
 
 "APPLOVIN_BANNER_ID" : "ISIAN",
 "APPLOVIN_INTERSTITIAL_ID" : "ISIAN",
 
-"HPK_ALIENDROID" : "kuota data 30gb",
-"HPK_ADMOB1" : "Kuota Data",
-"HPK_ADMOB2" : "bank jenius",
-"HPK_ADMOB3" : "bank jago",
-"HPK_ADMOB4" : "telkomsel",
-"HPK_ADMOB5" : "donasi",
+"HPK_ALIENDROID" : "cloud hosting",
+"HPK_ADMOB1" : "university",
+"HPK_ADMOB2" : "credit card",
+"HPK_ADMOB3" : "insurance",
+"HPK_ADMOB4" : "loan",
+"HPK_ADMOB5" : "donate",
 
 "FAN_BANNER" : "YOUR_PLACEMENT_ID",
 "FAN_INTER" : "YOUR_PLACEMENT_ID",
