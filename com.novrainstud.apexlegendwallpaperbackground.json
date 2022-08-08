@@ -16,11 +16,11 @@
 //     * Mode APPLOVIN    Applovin backup Unity Backup Startapp
 //     * Mode TAPDAQ    TAPDAQ backup Unity Backup Startapp
 
-"PENGATURAN_IKLAN_BANNER" : "startapp",
-"PENGATURAN_IKLAN_INTER" : "startapp",
-"PENGATURAN_IKLAN_NATIVE" : "startapp",
+"PENGATURAN_IKLAN_BANNER" : "UNITY",
+"PENGATURAN_IKLAN_INTER" : "UNITY",
+"PENGATURAN_IKLAN_NATIVE" : "UNITY",
 
-"INTERS_COUNT_WEB" : 5,
+"INTERS_COUNT_WEB" : 2,
 
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
@@ -31,9 +31,9 @@
 "ADMOB_BANNER" : "",
 "ADMOB_INTER" : "",
 
-"UNITY_BANNER" : "banner",
-"UNITY_INTERSTITIAL" : "inter",
-"UNITY_GAME_ID" : "",
+"UNITY_BANNER" : "Banner_Android",
+"UNITY_INTERSTITIAL" : "Interstitial_Android",
+"UNITY_GAME_ID" : "4838045",
 "UNITY_TEST_MODE" : false,
 
 "APPLOVIN_BANNER_ID" : "ISIAN",
